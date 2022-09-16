@@ -1,4 +1,4 @@
-# Full-Stack Inspiration Board
+# Note Tracking System
 
 ## Skills Assessed
 
